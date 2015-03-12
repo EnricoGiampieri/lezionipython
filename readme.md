@@ -14,3 +14,5 @@ Di seguito ci sono i link per la visualizzazione online dei notebook tramite nbv
 
 [Random walk e diffusione](http://nbviewer.ipython.org/urls/raw.github.com/EnricoGiampieri/lezionipython/master/metodi%2520fisici%2520-%2520diffusione.ipynb)
 
+[Integrazione di Equazioni Differenziali](http://nbviewer.ipython.org/github/EnricoGiampieri/lezionipython/blob/master/Integrazione%20di%20equazioni%20differenziali.ipynb)
+
